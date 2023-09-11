@@ -23,12 +23,13 @@
 &emsp;&emsp;&emsp;&emsp;&emsp; 👨‍💼 *Strong work ethics* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F50C; *Get the job done mode* 
 
-<br></br><br>
+<br><br>
 
 -------------------------------------------
 
 # &#x1F914; *So, what is this place(?)* <br>
-&emsp;&emsp;&emsp; *It's a place where I can share my projects with you throughout my journey related to the fields of interest I've mentioned above.* <br>
+&emsp;&emsp;&emsp; &#x1F3E0; *It's a place where I can share my projects.* <br>
+&emsp;&emsp;&emsp; &#x1F4A1; *It's a place where I can collaborate with you.*
 <!--
 **geoav74/geoav74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
