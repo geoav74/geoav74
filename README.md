@@ -4,8 +4,8 @@
 
 # &#x1F4E3; *About me* 
 ### &emsp;&emsp; &#x1F393; *Education:*
-&emsp;&emsp;&emsp;&emsp;&emsp; &#x1F4DA; *I'm an aspired postgraduate student in Data Science atm.* <br>
-&emsp;&emsp;&emsp;&emsp;&emsp; &#x1F4DA; *I'm holding a BSc degree in Computer Science.* 
+&emsp;&emsp;&emsp;&emsp;&emsp; &#x1F4DA; *BSc in Computer Science.* <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; &#x1F4DA; *MSc in Data Science.* 
 <br><br>
 
 ### &emsp;&emsp; &#x1F917; *My Interests (in random order) include:*
