@@ -13,7 +13,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F449; *Deep Learning* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F449; *Data Science* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F449; *Data Engineering* <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F449; *Data Analytics* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F449; *MLOps* <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F449; *Modeling & Simulation* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;  &#x1F449; *Optimization* 
 <br><br>
 
